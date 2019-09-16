@@ -1,0 +1,63 @@
+#navbar h1 {
+  float: none;
+  text-align: center;
+}
+
+#navbar ul li {
+  float: none;
+}
+
+#navbar ul {
+  float: none;
+}
+
+/* Showcase */
+
+#showcase {
+  height: 500px;
+}
+
+#showcase .showcase-content {
+  padding-top: 90px;
+}
+
+/* Home-Info */
+
+#home-info .info-img {
+  display: none;
+}
+
+#home-info .info-content {
+  float: none;
+  text-align: center;
+  max-width: 100%;
+}
+
+/* Features */
+
+.box {
+  float: none;
+  width: 100%;
+}
+
+/* About Page Style*/
+
+ /* about-info */
+
+ #about-info .info-left {
+   float: none;
+   width: 100%;
+   text-align: center;
+ }
+
+ #about-info .info-right {
+   float: none;
+   width: 100%;
+   margin-top: 20px;
+ }
+
+/* Testimonials */
+
+#testimonials {
+  min-height: 600px;
+}
